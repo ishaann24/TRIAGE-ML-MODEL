@@ -1,0 +1,4 @@
+name,accuracy,std
+"XGBoost (tuned, vitals+text) — single split",0.7192429022082019,
+"XGBoost (tuned, vitals+text) — 5-fold CV mean",0.6684977124894961,0.023951393493104465
+Nurse's own score (whole dataset),0.8531965272296764,
